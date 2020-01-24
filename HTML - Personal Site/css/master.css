@@ -1,0 +1,6 @@
+#tableContainer {
+  display: table;
+}
+table, th, td {
+  border: thin solid black;
+}
